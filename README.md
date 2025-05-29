@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushant0X0
 - 👀 I’m interested in learning new things
-- Passionate quantum enthusiast exploring the frontiers of quantum computing and its applications 🚀🔬.
+- 🚀🔬Passionate quantum enthusiast exploring the frontiers of quantum computing and its applications.
 - 🌱 I’m currently learning JavaScript for web development
 - 💞️ I’m looking to collaborate on future opportunities regarding web dev
 - 📫 How to reach me through Email 
